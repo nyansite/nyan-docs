@@ -1,22 +1,22 @@
 ---
 layout: home
-title: "Main Page"
+title: "主页"
 
 hero:
-  name: "VitePress Starter"
-  text: "Opinionated VitePress Starter Template"
-  tagline: "Starts a VitePress project with more features than the official project starter."
+  name: "VitePress 起手模板"
+  text: "固执己见的 VitePress 起手模板"
+  tagline: "以一个比官方模板更多起始配置项的状态开启一个新的VitePress项目"
   image: 
     src: "/logo/logo.png"
     alt: logo
   actions:
     - theme: brand
-      text: Get Started
+      text: 开始使用
       link: /page
 
 features:
-  - title: Card
-    details: This is a card.
+  - title: 卡片
+    details: 芝士卡片。
     icon: 
       src: "/imgs/card.jpg"
 ---

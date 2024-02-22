@@ -4,7 +4,7 @@
   "description": "喵站文档",
   "type": "module",
   "scripts": {
-    "serve": "vitepress dev contents",
+    "serve": "vitepress dev contents --open",
     "build": "vitepress build contents",
     "preview": "vitepress preview contents",
     "dep": "taze major"
