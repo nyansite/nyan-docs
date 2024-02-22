@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "serve": "vitepress dev contents --open",
-    "build": "vitepress build contents",
+    "build": "vitepress build contents && cp .nojekyll contents/.vitepress/dist/.nojekyll",
     "preview": "vitepress preview contents",
     "dep": "taze major"
   },
